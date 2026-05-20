@@ -252,13 +252,3 @@ It serves as a strong foundation for building:
 
 ---
 
-# 👨‍💻 Author
-
-## Taksh Agarwal
-
-Artificial Intelligence & Machine Learning Enthusiast
-
-### Connect With Me
-- GitHub: `Taksh-Agrl`
-
----
